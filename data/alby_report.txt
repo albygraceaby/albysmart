@@ -1,0 +1,9 @@
+=== Monthly Report for alby ===
+Month: OCTOBER 2025
+
+alby,2025-10-04,Income,230000,3400000.0
+alby,2025-10-04,Expense,food,56000.0
+
+Total Income: 3400000.0
+Total Expense: 56000.0
+Net Savings: 3344000.0
